@@ -1,5 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color:#FFFFFF
 }
 #logo{
     color: var(--navyblue, #2E2F42);
@@ -14,12 +16,13 @@ text-decoration: none;
 }
 
 .logo-style{
-    color: var(--navyblue, #4D5AE5);
-font-family: Raleway;
+    color: #2e2f42;
+font-family: 'Raleway'sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
 line-height: 21px;
+line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
@@ -38,13 +41,13 @@ text-transform: uppercase;
         font-weight: 400;
         line-height: 24px;
 }
-.Effective-section{
+.effective-section{
 background-color: #2E2F42;
     width: 1440px;
     height: 600px;
 }
 
-.Effective-title{
+.effective-title{
  color:#fff;
 font-family: 
     'Roboto',
@@ -54,7 +57,7 @@ font-family:
     font-weight: 700;
     line-height: 60px;
 }
-.Effective-button{
+.effective-button{
     display: inline-flex;
     padding: 16px 32px;
     align-items: flex-start;
@@ -63,7 +66,7 @@ font-family:
         background: var(--iris, #4D5AE5);
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
-.Effective-button :hover{
+.effective-button :hover{
     #404BBF
 }
 .quality-item{
