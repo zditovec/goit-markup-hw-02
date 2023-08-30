@@ -14,7 +14,7 @@ address {
 }
 .logo{
 color:#4d5ae5;
-    font-family: Raleway;
+    font-family: ;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -49,6 +49,13 @@ color:#4d5ae5;
         font-style: normal;
         font-weight: 400;
         line-height: 24px;
+        letter-spacing: 0.02em;
+}
+.item-mail :hover{
+    color: #404bbf;
+}
+.item-mail :focus{
+    color: #404bbf;
 }
 .effect-section{
     background-color: #2E2F42;
@@ -66,9 +73,17 @@ color:#4d5ae5;
     border:none;
     cursor: pointer;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     padding: 16px 32px;
     border-radius: 4px;;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+}
+.effective-button :hover{
+    background-color: #404BBF;
+}
+.effective-button :focus{
+    background-color: #404BBF;
 }
 .quality-item{
          color: #2E2F42;
@@ -126,7 +141,7 @@ color:#4d5ae5;
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 .sphere-list-link{
