@@ -1,6 +1,7 @@
 .item-body{
     color: #434455;
     background-color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
 }
 a {
     text-decoration: none;
@@ -15,7 +16,7 @@ address {
 }
 .logo{
 color:#4d5ae5;
-    font-family: ;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -86,6 +87,7 @@ color:#4d5ae5;
 }
 .effective-button{
     color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
     border:none;
     cursor: pointer;
@@ -136,11 +138,13 @@ color:#4d5ae5;
     font-size: 20px;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    line-height: 1.2;
 }
 .list-work{
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
+    line-height: 1.5;
 }
 .our-portfolio{
     color: #2E2F42;
@@ -156,6 +160,7 @@ color:#4d5ae5;
     font-size: 20px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    line-height: 1.2
 }
 .sphere-list-link{
     color: #434455;
