@@ -65,7 +65,9 @@ color:#4d5ae5;
     font-size: 56px;
         font-style: normal;
         font-weight: 700;
-        line-height: 60px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
 }
 .effective-button{
     color: #FFFFFF;
@@ -74,15 +76,13 @@ color:#4d5ae5;
     cursor: pointer;
     font-weight: 500;
     line-height: 1.5;
-    padding: 16px 32px;
-    border-radius: 4px;;
     font-size: 16px;
     letter-spacing: 0.04em;
 }
-.effective-button :hover{
+.effective-button:hover{
     background-color: #404BBF;
 }
-.effective-button :focus{
+.effective-button:focus{
     background-color: #404BBF;
 }
 .quality-item{
@@ -141,7 +141,7 @@ color:#4d5ae5;
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .sphere-list-link{
