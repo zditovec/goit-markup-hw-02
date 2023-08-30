@@ -1,8 +1,6 @@
 .item-body{
     color: #434455;
     background-color: #FFFFFF;
-    
-    
 }
 a {
     text-decoration: none;
@@ -136,12 +134,10 @@ color:#4d5ae5;
 .list-name{
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .list-work{
-    line-height: 1.5;
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
