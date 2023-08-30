@@ -25,16 +25,24 @@ color:#4d5ae5;
     text-decoration: none;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
 }
 .accent{
-    color: #4D5AE5;
+    color: #2e2f42;
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 21px;
     text-decoration: none;
+}
+.accent-footer{
+    color: #f4f4fd;
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 21px;
+        text-decoration: none;
 }
 .nav-link{
         color: #2e2f42;
